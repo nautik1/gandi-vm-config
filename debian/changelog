@@ -1,3 +1,13 @@
+gandi-hosting-vm2 (2.35) unstable; urgency=medium
+
+  [Corwind]
+  * add scripts and dependencies to decompress LZ4 kernels
+
+  [Nautik]
+  * Re-trigger udev events to ensure /dev/disk links are properly set
+
+ -- Nicolas Parquet <nicolas.parquet@gandi.net>  Thu, 02 Jul 2020 15:30:36 +0200
+
 gandi-hosting-vm2 (2.34) unstable; urgency=medium
 
   [Nicolas Belouin]
